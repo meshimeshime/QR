@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head><meta charset="UTF-8"><title>포스터 다운로드</title></head>
+<body>
+  <a id="dl" href="starry_night_movie.png" download="starry_night_movie.png"></a>
+  <script>document.getElementById("dl").click();</script>
+  <p>다운로드 중입니다…</p>
+</body>
+</html>
